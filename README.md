@@ -1,6 +1,5 @@
 # Expanding Cards
 
-
 ### Technologies:
 
 <br>
@@ -10,4 +9,5 @@
  - JavaScript
 
 <br>
- Duration: 30 minutes
+
+**Duration:** 30 minutes
