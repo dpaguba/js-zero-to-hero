@@ -5,10 +5,17 @@ const weather = document.querySelector(".weather")
 const error = document.querySelector(".not-found")
 const input = document.querySelector(".search-box input")
 
-search.addEventListener("click", () =>{
-    const APIKey = "219e46cf6fa7aa091842d2040dbfadc9"
-    const city = document.querySelector(".search-box input").value
+search.addEventListener("click", getWeather)
+input.addEventListener("keypress", (event)=>{
+    if(event.key === "Enter"){
+        getWeather()
+    }
+})
 
+function getWeather(){
+    const APIKey = "219e46cf6fa7aa091842d2040dbfadc9"
+    const city = input.value
+    
     if(city === ""){
         return;
     }
@@ -72,7 +79,4 @@ search.addEventListener("click", () =>{
             container.style.height = "600px"
 
         })
-        
-
-})
-
+}
