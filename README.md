@@ -13,6 +13,4 @@
 **Duration:** 20 minutes
 
 
-
-https://user-images.githubusercontent.com/88382171/222810214-f4e2bbef-3d8d-4d45-ac54-5bc6a04a3358.mov
-
+![navbar-with-dropdown-menu](https://user-images.githubusercontent.com/88382171/222810851-f5c07e7a-22ba-4523-bffb-8173607fd3f8.gif)
