@@ -12,6 +12,6 @@ window.addEventListener("scroll", ()=>{
     if(pageYOffset > offset){
         navbar.classList.add("navbar-active")
     }else{
-        navbar.classList.remove(navbar-active)
+        navbar.classList.remove("navbar-active")
     }
 })

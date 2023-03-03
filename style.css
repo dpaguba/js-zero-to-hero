@@ -14,45 +14,10 @@
     -o-user-drag: none;
 }
 
-ul{
-    list-style-type: none;
-    padding: 0;
-}
-
 header{
-    min-height: 100vh;
+    height: 100vh;
     background: url(images/bg.jpg) no-repeat center;
     background-size: cover;
-}
-
-main{
-    padding: 2em;
-    background: #111;
-}
-
-main p{
-    font-size: 1.1em;
-    line-height: 27px;
-    color: #fff;
-}
-
-.container, .container-inner{
-    margin: 0 auto;
-    width: 100%;
-}
-
-.container{
-    min-width: 1350px;
-    position: relative;
-    display: grid;
-    grid-template-columns: 1fr 5fr 1fr;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 auto;
-}
-
-.container-inner{
-    min-width: 1000px;
 }
 
 nav{
@@ -61,13 +26,9 @@ nav{
     left: 0;
     width: 100%;
     padding: 2em;
-    z-index: 9;
+    z-index: 1;
     transition: .7s;
     color: #fff;
-}
-
-.brand{
-    font-size: 1.6em;
 }
 
 nav .container{
@@ -102,11 +63,52 @@ nav a:hover{
     color: #e54416;
 }
 
-.input-wrap{
-    display: flex;
-    justify-content: center;
+nav .fa-bars{
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+}
+
+nav .fa-bars:hover{
+    color: #e54416;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+main{
+    padding: 2em;
+    background: #111;
+}
+
+main p{
+    font-size: 1.1em;
+    line-height: 27px;
+    color: #fff;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.container{
+    min-width: 1350px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    justify-content: space-between;
     align-items: center;
-    padding: 0.5em 0;
+    margin: 0 auto;
+}
+
+.brand{
+    font-size: 1.6em;
 }
 
 form input, form button{
@@ -121,17 +123,6 @@ form button{
 
 form input:focus{
     outline: none;
-}
-
-nav .fa-bars{
-    font-size: 1.2em;
-    cursor: pointer;
-    transition: 0.3s;
-    text-align: center;
-}
-
-nav .fa-bars:hover{
-    color: #e54416;
 }
 
 .menu{
@@ -193,11 +184,9 @@ nav .fa-bars:hover{
     padding: 1em;
 }
 
-@media screen and (max-width: 800px) {
-    nav .container-inner{
-        display: none;
-    }
+/* ! RESPONSIVE */
 
+@media screen and (max-width: 800px) {
     nav .container{
         grid-template-columns: 1fr 1fr;
     }
