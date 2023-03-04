@@ -1,6 +1,6 @@
 # Expanding Cards
 
-[Click here to see the result](dpaguba.github.io/expanding-cards/)
+[Click here to see the result](https://dpaguba.github.io/expanding-cards/)
 
 ### Technologies:
 
