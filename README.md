@@ -1,5 +1,7 @@
 # <img src="images/logo.png" style="height: 25px"> Navbar with Dropdown Menu
 
+[Click here to see the result](https://dpaguba.github.io/js-navbar-dropdown-menu/)
+
 ### Technologies:
 
 <br>
@@ -12,5 +14,6 @@
 
 **Duration:** 20 minutes
 
+<br>
 
-![navbar-with-dropdown-menu](https://user-images.githubusercontent.com/88382171/222810851-f5c07e7a-22ba-4523-bffb-8173607fd3f8.gif)
+![navbar](https://user-images.githubusercontent.com/88382171/222894358-866d379f-2674-4fb3-a679-be64ce3a0c00.gif)
