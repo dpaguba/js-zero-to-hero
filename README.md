@@ -1,7 +1,9 @@
 # <img src="images/hot.png" style="height: 25px;"> Weather App
 
 <br>
-[Click here to see the result] (https://dpaguba.github.io/js-weather-app/)
+
+[Click here to see the result](https://dpaguba.github.io/js-weather-app/)
+
 <br>
 
 ### Technologies:
