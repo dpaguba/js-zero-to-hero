@@ -79,10 +79,12 @@ section{
 
 .active{
     border-color: #cc9f69;
+    transition: all .2s ease-in;
 }
 
 .active:after{
     background-color: #cc9f69;
+    transition: all .2s ease-in;
 }
 
 .prev, .next{
