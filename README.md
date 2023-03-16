@@ -1,6 +1,6 @@
 # <img src="images/step.png" style="height: 25px;"> Progress Steps
 
-[Click here to see the result]()
+[Click here to see the result](https://dpaguba.github.io/progress-steps/)
 
 ### Technologies:
 
