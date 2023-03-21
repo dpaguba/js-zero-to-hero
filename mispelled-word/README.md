@@ -1,6 +1,6 @@
-**Task:**
+### Task
 
-Create a function mispelled(word1, word2):
+**Create a function mispelled(word1, word2):**
 
 - mispelled('versed', 'xersed'); // returns true
 - mispelled('versed', 'applb'); // returns false
