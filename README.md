@@ -1,5 +1,5 @@
 # <img src="images/PNG/favicon.png" style="height: 25px;"> Currency Convertor
-[Click here to see the result](https://dpaguba.github.io/progress-steps/)
+[Click here to see the result](https://dpaguba.github.io/js-currency-convertor/)
 
 ### Technologies:
 
