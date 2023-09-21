@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    max-width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    background-color: #432818;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    gap: 25px;
+    position: relative;
+}
+
+.steps{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.number{
+    border: 5px solid rgb(193, 193, 193);
+}
+
+.number{
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 20px 25px;
+    margin-right: 100px;
+    color: #6e4021;
+    z-index: 1;
+
+}
+
+.number:first-child{
+    border-color: #cc9f69;
+    margin-left: 100px;
+}
+
+.number1:after, .number2:after, .number3:after{
+    background-color: rgb(193, 193, 193);
+    position: absolute;
+    content: "";
+    height: 6px;
+    width: 105px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.number1:after{
+    left: 168px;
+}
+
+.number2:after{
+    left: 335px;
+}
+
+.number3:after{
+    left: 500px;
+}
+
+.active{
+    border-color: #cc9f69;
+    transition: all .2s ease-in;
+}
+
+.active:after{
+    background-color: #cc9f69;
+    transition: all .2s ease-in;
+}
+
+.prev, .next{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #cc9f69;
+    cursor: pointer;
+    color: #fff;
+}
+
+.prev:disabled, .next:disabled{
+    color: grey;
+    background-color: darkgray;
+    cursor: default;
+}
