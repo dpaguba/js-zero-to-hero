@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f7fb;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.calculator{
+    width: 300px;
+    height: 550px;
+    background-color: #1C1C1C;
+    padding: 10px;
+    outline: 8px solid #555555;
+    border-radius: 5%;
+}
+
+.calculator .result-window{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    height: calc(100% - 350px);
+    background-color: #1C1C1C;
+    color: white;
+}
+
+.result-window p{
+    overflow-x: scroll;
+    margin: 0;
+    font-size: 4rem;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.result-window p::-webkit-scrollbar {
+    display: none;
+}
+
+.calculator .math-btn{
+    display: grid;
+    gap: 7px;
+    grid-template-areas:
+            "ac plus-minus percent divide"
+            "seven eight nine multiply"
+            "four five six minus"
+            "one two three plus"
+            "zero zero dot equal";
+    justify-items: center;
+}
+
+.btn{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    user-select: none;
+}
+
+.grey{
+    font-size: 1.5em;
+    background-color: #D4D4D2;
+    color: #222222;
+    transition: filter 0.4s ease-out;
+}
+
+.orange{
+    background-color: #FF9500;
+    font-size: 2.2em;
+    transition: background-color 0.4s ease-out;
+}
+
+.darkgrey{
+    background-color: #505050;
+    transition: filter 0.4s ease-out;
+}
+
+.btn.zero{
+    grid-area: zero;
+    width: 100%;
+    border-radius: 34px;
+    padding-left: 25px;
+    text-align: left;
+}
+
+.btn:focus{
+    outline: 0;
+}
+
+.darkgrey:hover{
+    /*background-color: #bbb;*/
+    filter: brightness(170%);
+}
+
+.grey:hover{
+    /*background-color: #ffffff;*/
+    filter: brightness(120%);
+}
+
+.orange:hover{
+    background-color: #FFCA80;
+}
+
+.orange.active{
+    color: #FF9500;
+    background-color: white;
+}
+
+footer{
+    position: fixed;
+    width: 100vw;
+    text-align: center;
+    bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    font-family: inherit;
+    font-size: 20px;
+    color: #555555;
+}
+
+.fa{
+    color: #555555;
+    cursor: pointer;
+}
+
+.fa:hover{
+    transform: scale(1.2);
+    transition: transform 0.2s ease-in-out;
+}
