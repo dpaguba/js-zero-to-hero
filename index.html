@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/js.css">
+    <link rel="shortcut icon" href="images/PNG/favicon.png" type="image/x-icon">
+    <title>Currency Convertor</title>
+</head>
+<body>
+    <section>
+        <div class="convertor">
+            <div class="amount-input">
+                <input type="number" min="0" placeholder="Amount*" id="amount" class="noSelected" required autocomplete="off"/>
+            </div>
+            <div class="from-input">
+                <select id="from-currency">
+                  </select>
+            </div>
+            <div class="swapper">
+                <img src="images/PNG/convert.png" alt="" id="swap">
+            </div>
+            <div class="to-input">
+                <select id="to-currency">
+                  </select>
+            </div>
+            <button class="disabled" id="convert" disabled>Convert</button>
+            <div class="result">
+                
+            </div>
+            <div class="from-to">
+            </div>
+        </div>
+        
+        </div>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>
