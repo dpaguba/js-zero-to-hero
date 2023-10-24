@@ -1,7 +1,5 @@
 # Animated Number Counter
 
-[Click here to see the result](https://dpaguba.github.io/js-animated-number-counter/)
-
 ### Technologies:
 
 <br>
