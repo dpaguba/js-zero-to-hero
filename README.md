@@ -12,6 +12,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Hidden Search Widget 🔎](#hidden-search-widget-🔎) - is a user interface element that provides search functionality but is initially hidden from view, only becoming visible when triggered by a user's action
 - [Navbar Dropdown Menu 🗺️](#navbar-dropdown-menu-🗺️) - is a user interface element commonly used in websites and applications to provide a list of options for navigation or selection.
 - [Progress Steps 🏃🏻‍♂️](#progress-steps-🏃🏻‍♂️) - is a user interface component often used in multi-step processes, such as forms, tutorials, surveys, or any scenario where users need to follow a sequence of steps or stages.
+- [Rotating Navigation 🧭](#rotating-navigation-🧭) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
 
 ## Preview 🌟
 
@@ -64,6 +65,17 @@ Here are the JavaScript projects you'll find in this repository:
 ![steps ](https://user-images.githubusercontent.com/88382171/225456216-60d3f4e6-4d07-43da-839a-69c29d5b8b31.gif)
 
 <br>
+
+### Rotating Navigation 🧭
+ - **Folder:** [📁 rotating-navigation](/rotating-navigation/)
+ - **Description:** rotating navigation is a creative and engaging way to design website navigation, especially for mobile-responsive designs and one-page websites. When executed effectively, it provides an elegant and space-saving solution while enhancing the overall user experience.
+
+
+
+ <br>
+
+ 
+
 
 Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
 
