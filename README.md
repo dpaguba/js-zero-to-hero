@@ -15,7 +15,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Rotating Navigation 🧭](#rotating-navigation-) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
 - [Apple Calculator 🧮](#apple-calculator-) - seeks to replicate the visual and functional aspects of the Apple Calculator, offering users a familiar and user-friendly calculator experience within a web browser.
 - [Currency Convertor 💸](#currency-convertor-) - is a financial tool or application that allows users to convert the value of one currency into another. The primary purpose of a currency converter is to provide users with the current exchange rate between different currencies and to perform currency conversions accurately and efficiently.
-- [Weather App 🌡️](#weather-app) - is a software application designed to provide users with real-time or forecasted weather information for a specific location or multiple locations. 
+- [Weather App 🌡️](#weather-app-) - is a software application designed to provide users with real-time or forecasted weather information for a specific location or multiple locations. 
 
 ## Preview 🌟
 
