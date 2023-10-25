@@ -1,18 +1,14 @@
-# <img src="images/PNG/favicon.png" style="height: 25px;"> Currency Convertor
-[Click here to see the result](https://dpaguba.github.io/js-currency-convertor/)
 
-### Technologies:
+## Usage 📢
 
-<br>
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
- - HTML5
- - CSS3
- - JavaScript
+Navigate to currency-convertor folder:
 
-<br>
+    cd currency-convertor/
 
-**Duration:** 90 minutes
+Open Project in Google Chrome
 
-<br>
-
-<!-- ![steps ]() -->
+    open -a Google\ Chrome.app index.html
