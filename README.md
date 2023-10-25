@@ -13,7 +13,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Navbar Dropdown Menu 🗺️](#navbar-dropdown-menu-) - is a user interface element commonly used in websites and applications to provide a list of options for navigation or selection.
 - [Progress Steps 🏃🏻‍♂️](#progress-steps-) - is a user interface component often used in multi-step processes, such as forms, tutorials, surveys, or any scenario where users need to follow a sequence of steps or stages.
 - [Rotating Navigation 🧭](#rotating-navigation-) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
-- []
+- [Apple Calculator 🧮](#apple-calculator-) - seeks to replicate the visual and functional aspects of the Apple Calculator, offering users a familiar and user-friendly calculator experience within a web browser.
 
 ## Preview 🌟
 
@@ -72,6 +72,11 @@ Here are the JavaScript projects you'll find in this repository:
 ![ezgif com-video-to-gif (1)](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/1770a89b-7732-453d-aef8-6a63d23ddc00)
 
  <br>
+
+### Apple Calculator 🧮
+ - **Folder:** [📁 apple-calculator](/apple-calculator/)
+ - **Description:**  is a web-based recreation of Apple's popular calculator application, offering users a familiar and user-friendly calculator experience in a digital environment. It is suitable for various use cases, from basic calculations to educational tools and portfolio projects for web developers. When implemented effectively, it provides a versatile and accessible solution for online calculations.
+
 
 
 
