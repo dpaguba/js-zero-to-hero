@@ -4,7 +4,7 @@ Clone git repository:
     
     git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-Navigate to animated-number-folder:
+Navigate to animated-number-counter folder:
 
     cd animated-number-folder/
 
