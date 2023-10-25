@@ -6,7 +6,7 @@ Clone git repository:
 
 Navigate to animated-number-counter folder:
 
-    cd animated-number-folder/
+    cd animated-number-counter/
 
 Open Project in Google Chrome
 

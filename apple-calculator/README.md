@@ -1,19 +1,13 @@
-# <img src="images/favicon.png" style="height: 25px;"> iCalculator
+## Usage 📢
 
-[Click here to see the result](https://dpaguba.github.io/iCalculator/)
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-### Technologies:
+Navigate to apple-calculator folder:
 
-<br>
+    cd apple-calculator/
 
- - HTML5
- - CSS3
- - JavaScript
+Open Project in Google Chrome
 
-<br>
-
-**Duration:** 320 minutes
-
-<br>
-
-<!--![steps ]() -->
+    open -a Google\ Chrome.app index.html

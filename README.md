@@ -13,6 +13,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Navbar Dropdown Menu 🗺️](#navbar-dropdown-menu-) - is a user interface element commonly used in websites and applications to provide a list of options for navigation or selection.
 - [Progress Steps 🏃🏻‍♂️](#progress-steps-) - is a user interface component often used in multi-step processes, such as forms, tutorials, surveys, or any scenario where users need to follow a sequence of steps or stages.
 - [Rotating Navigation 🧭](#rotating-navigation-) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
+- []
 
 ## Preview 🌟
 
