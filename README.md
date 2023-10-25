@@ -6,13 +6,13 @@ Welcome to my JavaScript Projects Repository! This repository serves as a collec
 
 Here are the JavaScript projects you'll find in this repository:
 
-- [Animated Number Counter 🔢](#animated-number-counter-🔢) - is a visual element used in web development to display a numerical value that increases or decreases with a smooth and visually appealing animation. 
+- [Animated Number Counter 🔢](#Animated-Number-Counter-🔢) - is a visual element used in web development to display a numerical value that increases or decreases with a smooth and visually appealing animation. 
 - [Background Generator 🌈](#background-generator-🌈) - is a tool application used in design and web development to create custom and visually appealing backgrounds for websites.
 - [Expanding Cards 🌌](#expanding-cards-🌌) - is a common web development or user interface design exercise that involves creating a dynamic and interactive user interface element.
 - [Hidden Search Widget 🔎](#hidden-search-widget-🔎) - is a user interface element that provides search functionality but is initially hidden from view, only becoming visible when triggered by a user's action
 - [Navbar Dropdown Menu 🗺️](#navbar-dropdown-menu-🗺️) - is a user interface element commonly used in websites and applications to provide a list of options for navigation or selection.
 - [Progress Steps 🏃🏻‍♂️](#progress-steps-🏃🏻‍♂️) - is a user interface component often used in multi-step processes, such as forms, tutorials, surveys, or any scenario where users need to follow a sequence of steps or stages.
-- [Rotating Navigation 🧭](#rotating-navigation) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
+- [Rotating Navigation 🧭](#rotating-navigation-🧭) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
 
 ## Preview 🌟
 
