@@ -79,6 +79,7 @@ Here are the JavaScript projects you'll find in this repository:
  - **Folder:** [📁 apple-calculator](/apple-calculator/)
  - **Description:**  apple calculator is a web-based recreation of Apple's popular calculator application, offering users a familiar and user-friendly calculator experience in a digital environment. It is suitable for various use cases, from basic calculations to educational tools and portfolio projects for web developers. When implemented effectively, it provides a versatile and accessible solution for online calculations.
 
+![ezgif com-video-to-gif (3)](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/eb72e675-4037-4b34-bbd3-a0ca37ee95e2)
 
 <br>
 
@@ -86,6 +87,7 @@ Here are the JavaScript projects you'll find in this repository:
  - **Folder:** [📁 currency-convertor](/currency-convertor/)
  - **Description:** currency converter is a practical and valuable tool used to convert the value of one currency into another, and it serves a wide range of users, from travelers and shoppers to international traders and financial institutions. These tools provide ease of use, timely information, and efficient currency conversions, making them essential in a globalized world with diverse currency exchange needs.
 
+![ezgif com-video-to-gif (4)](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/b332865c-843a-4bfa-b9f9-058274d06b71)
 
 <br>
 
