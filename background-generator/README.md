@@ -1,18 +1,13 @@
-# <img src="images/color_wheel.png" style="height: 25px;"> Gradient Background
-[Click here to see the result](https://dpaguba.github.io/background-generator/)
+## Usage 📢
 
-### Technologies:
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-<br>
+Navigate to background-generator folder:
 
- - HTML5
- - CSS3
- - JavaScript
+    cd background-generator/
 
-<br>
+Open Project in Google Chrome
 
-**Duration:** 30 minutes
-
-<br>
-
-<!-- ![steps ]() -->
+    open -a Google\ Chrome.app index.html
