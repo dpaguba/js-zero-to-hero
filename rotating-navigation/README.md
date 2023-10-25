@@ -1,18 +1,13 @@
-# Rotating Navigation
-[Click here to see the result](https://dpaguba.github.io/js-rotating-navigation/)
+## Usage 📢
 
-### Technologies:
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-<br>
+Navigate to rotating-navigation folder:
 
- - HTML5
- - CSS3
- - JavaScript
+    cd rotating-navigation/
 
-<br>
+Open Project in Google Chrome
 
-**Duration:** 45 minutes
-
-<br>
-
-<!-- ![steps ]() -->
+    open -a Google\ Chrome.app index.html
