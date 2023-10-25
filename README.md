@@ -97,5 +97,5 @@ Here are the JavaScript projects you'll find in this repository:
 
  ![Bildschirmaufnahme 2023-03-08 um 00 31 14](https://user-images.githubusercontent.com/88382171/223579763-cd2ccfc3-fb77-4dbd-844f-72a483b90ba9.gif)
 
-Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
+<br>
 
