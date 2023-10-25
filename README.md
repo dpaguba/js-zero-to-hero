@@ -85,5 +85,8 @@ Here are the JavaScript projects you'll find in this repository:
  - **Folder:** [📁 currency-convertor](/currency-convertor/)
  - **Description:** currency converter is a practical and valuable tool used to convert the value of one currency into another, and it serves a wide range of users, from travelers and shoppers to international traders and financial institutions. These tools provide ease of use, timely information, and efficient currency conversions, making them essential in a globalized world with diverse currency exchange needs.
 
+
+ <br>
+
 Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
 
