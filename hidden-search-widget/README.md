@@ -1,19 +1,13 @@
-# Hidden Search Widget
+## Usage 📢
 
-[Click here to see the result](https://dpaguba.github.io/hidden-search-widget/)
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-### Technologies:
+Navigate to hidden-search-widget folder:
 
-<br>
+    cd hidden-search-widget/
 
- - HTML5
- - CSS3
- - JavaScript
+Open Project in Google Chrome
 
-<br>
-
-**Duration:** 20 minutes
-
-<br>
-
-<!-- ![steps ]() -->
+    open -a Google\ Chrome.app index.html
