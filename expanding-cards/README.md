@@ -1,19 +1,13 @@
-# Expanding Cards
+## Usage 📢
 
-[Click here to see the result](https://dpaguba.github.io/expanding-cards/)
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-### Technologies:
+Navigate to expanding-cards folder:
 
-<br>
+    cd expanding-cards/
 
- - HTML5
- - CSS3
- - JavaScript
+Open Project in Google Chrome
 
-<br>
-
-**Duration:** 30 minutes
-
-<br>
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/88382171/222894878-a77d039f-1111-4290-be06-a259fcfb8efb.gif)
+    open -a Google\ Chrome.app index.html
