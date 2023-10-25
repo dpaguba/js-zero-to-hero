@@ -1,4 +1,4 @@
-# JavaScript Projects Repository 🚀
+ # JavaScript Projects Repository 🚀
 
 Welcome to my JavaScript Projects Repository! This repository serves as a collection of various JavaScript projects that I've worked on. It's a showcase of my coding skills and creativity in the world of web development. Feel free to explore the projects, use them as inspiration, or even contribute to their improvement.
 
@@ -28,7 +28,7 @@ Here are the JavaScript projects you'll find in this repository:
  - **Folder:** [📁 background-generator](/background-generator/)
  - **Description:** background generator is a versatile tool to quickly and easily create custom backgrounds for digital content. It offers a wide range of customization options, allowing users to produce backgrounds that align with their design objectives and enhance the visual appeal of their projects. Whether it's for a website, application, or graphic design, background generators streamline the process of background creation and provide a valuable resource for the design community.
 
-
+![ezgif com-video-to-gif](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/07062199-ea09-4bfe-9243-d0ff9f9ecd0c)
 
 <br>
 
