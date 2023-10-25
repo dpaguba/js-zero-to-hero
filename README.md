@@ -15,6 +15,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Rotating Navigation 🧭](#rotating-navigation-) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
 - [Apple Calculator 🧮](#apple-calculator-) - seeks to replicate the visual and functional aspects of the Apple Calculator, offering users a familiar and user-friendly calculator experience within a web browser.
 - [Currency Convertor 💸](#currency-convertor-) - is a financial tool or application that allows users to convert the value of one currency into another. The primary purpose of a currency converter is to provide users with the current exchange rate between different currencies and to perform currency conversions accurately and efficiently.
+- [Weather App 🌡️](#weather-app) - is a software application designed to provide users with real-time or forecasted weather information for a specific location or multiple locations. 
 
 ## Preview 🌟
 
@@ -86,7 +87,13 @@ Here are the JavaScript projects you'll find in this repository:
  - **Description:** currency converter is a practical and valuable tool used to convert the value of one currency into another, and it serves a wide range of users, from travelers and shoppers to international traders and financial institutions. These tools provide ease of use, timely information, and efficient currency conversions, making them essential in a globalized world with diverse currency exchange needs.
 
 
- <br>
+<br>
+
+### Weather App 🌡️
+ - **Folder:** [📁 weather-app](/weather-app/)
+ - **Description:** weather app is a valuable tool for staying informed about current and forecasted weather conditions, making it a must-have for everyday planning, travel, and safety. These apps offer convenience, customization, and accurate data to help users make informed decisions in a world where weather plays a significant role in daily life.
+
+ ![Bildschirmaufnahme 2023-03-08 um 00 31 14](https://user-images.githubusercontent.com/88382171/223579763-cd2ccfc3-fb77-4dbd-844f-72a483b90ba9.gif)
 
 Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
 
