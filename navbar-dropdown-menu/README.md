@@ -1,19 +1,13 @@
-# <img src="images/logo.png" style="height: 25px"> Navbar with Dropdown Menu
+## Usage 📢
 
-[Click here to see the result](https://dpaguba.github.io/js-navbar-dropdown-menu/)
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-### Technologies:
+Navigate to navbar-dropdown-menu folder:
 
-<br>
+    cd navbar-dropdown-menu/
 
- - HTML5
- - CSS3
- - JavaScript
+Open Project in Google Chrome
 
-<br>
-
-**Duration:** 20 minutes
-
-<br>
-
-![navbar](https://user-images.githubusercontent.com/88382171/222894358-866d379f-2674-4fb3-a679-be64ce3a0c00.gif)
+    open -a Google\ Chrome.app index.html
