@@ -44,7 +44,7 @@ Here are the JavaScript projects you'll find in this repository:
 - **Folder:** [📁 hidden-search-widget](/hidden-search-widget/)
  - **Description:** hidden search widget is a design choice that helps maintain a clean and visually appealing user interface while still offering powerful search capabilities. It's especially valuable in applications or websites with content-rich environments where users need efficient and responsive search functionality.
 
-
+![hsw](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/1060aeb7-4359-4c36-b25a-5d0a8ac9cd8b)
 
 <br>
 
