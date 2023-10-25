@@ -16,8 +16,6 @@ Here are the JavaScript projects you'll find in this repository:
 
 ## Preview 🌟
 
-<br>
-
 ### Animated Number Counter 🔢
  - **Folder:** [📁 animated-number-counter](/animated-number-counter/)
  - **Description:** animated number counter is a dynamic and eye-catching way to present numerical data on websites and applications. It combines the power of animation, JavaScript, and CSS to make data more engaging and interactive for users, making it a popular choice for websites that want to convey statistics and achievements effectively.
@@ -74,7 +72,7 @@ Here are the JavaScript projects you'll find in this repository:
 
  <br>
 
- 
+
 
 
 Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
