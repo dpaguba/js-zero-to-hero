@@ -68,7 +68,7 @@ Here are the JavaScript projects you'll find in this repository:
  - **Folder:** [📁 rotating-navigation](/rotating-navigation/)
  - **Description:** rotating navigation is a creative and engaging way to design website navigation, especially for mobile-responsive designs and one-page websites. When executed effectively, it provides an elegant and space-saving solution while enhancing the overall user experience.
 
-
+![ezgif com-video-to-gif (1)](https://github.com/dpaguba/js-zero-to-hero/assets/88382171/1770a89b-7732-453d-aef8-6a63d23ddc00)
 
  <br>
 
