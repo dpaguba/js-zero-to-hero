@@ -14,6 +14,7 @@ Here are the JavaScript projects you'll find in this repository:
 - [Progress Steps 🏃🏻‍♂️](#progress-steps-) - is a user interface component often used in multi-step processes, such as forms, tutorials, surveys, or any scenario where users need to follow a sequence of steps or stages.
 - [Rotating Navigation 🧭](#rotating-navigation-) - involves creating a navigation menu for a website. The distinctive feature of this navigation menu is its ability to reveal additional links or options through a rotating animation. 
 - [Apple Calculator 🧮](#apple-calculator-) - seeks to replicate the visual and functional aspects of the Apple Calculator, offering users a familiar and user-friendly calculator experience within a web browser.
+- [Currency Convertor 💸](#currency-convertor-) - is a financial tool or application that allows users to convert the value of one currency into another. The primary purpose of a currency converter is to provide users with the current exchange rate between different currencies and to perform currency conversions accurately and efficiently.
 
 ## Preview 🌟
 
@@ -75,11 +76,14 @@ Here are the JavaScript projects you'll find in this repository:
 
 ### Apple Calculator 🧮
  - **Folder:** [📁 apple-calculator](/apple-calculator/)
- - **Description:**  is a web-based recreation of Apple's popular calculator application, offering users a familiar and user-friendly calculator experience in a digital environment. It is suitable for various use cases, from basic calculations to educational tools and portfolio projects for web developers. When implemented effectively, it provides a versatile and accessible solution for online calculations.
+ - **Description:**  apple calculator is a web-based recreation of Apple's popular calculator application, offering users a familiar and user-friendly calculator experience in a digital environment. It is suitable for various use cases, from basic calculations to educational tools and portfolio projects for web developers. When implemented effectively, it provides a versatile and accessible solution for online calculations.
 
 
+<br>
 
-
+### Currency Convertor 💸
+ - **Folder:** [📁 currency-convertor](/currency-convertor/)
+ - **Description:** currency converter is a practical and valuable tool used to convert the value of one currency into another, and it serves a wide range of users, from travelers and shoppers to international traders and financial institutions. These tools provide ease of use, timely information, and efficient currency conversions, making them essential in a globalized world with diverse currency exchange needs.
 
 Dive into a world of JavaScript creativity with my collection of projects. Whether you're looking for web applications, games, or interactive components, you'll find it here. Feel free to explore, use, learn from, and contribute to these projects. Happy coding! 🚀
 
