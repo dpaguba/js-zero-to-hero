@@ -1,17 +1,13 @@
-# Animated Number Counter
+## Usage 📢
 
-### Technologies:
+Clone git repository:
+    
+    git clone https://github.com/dpaguba/js-zero-to-hero.git
 
-<br>
+Navigate to animated-number-folder:
 
- - HTML5
- - CSS3
- - JavaScript
+    cd animated-number-folder/
 
-<br>
+Open Project in Google Chrome
 
-**Duration:** 10 minutes
-
-<br>
-
-![number](https://user-images.githubusercontent.com/88382171/226492389-f2c9a846-4e2f-48c8-8c47-1c0e87cb86da.gif)
+    open -a Google\ Chrome.app index.html
